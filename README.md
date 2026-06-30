@@ -9,11 +9,8 @@ The dashboard provides a 360° view of business performance, enabling users to f
 Key Metrics (KPI Cards):
 
  Discount              (885.55)
- 
  Total Quantity Sold   (30K)
- 
  Total Profit          (283K)
- 
  Total Sales           (2M)
 
 Dashboard Components:
